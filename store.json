@@ -1,6 +1,7 @@
 [
   {
     "Name": "Test App",
+    "Version": "1.0.1",
     "Description": "Une app de test",
     "IconUrl": "https://raw.githubusercontent.com/Easy-Ai-Project/HubAppStore/refs/heads/main/t%C3%A9l%C3%A9chargement.ico",
     "DownloadUrl": "https://www.dropbox.com/scl/fi/xd4ddoywxzu2jhjmxu3z6/interface.HA?rlkey=tqwqq4gc53arz48yo9she6t5f&st=ou92xa7j&dl=1",
