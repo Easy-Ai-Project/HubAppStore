@@ -1,1 +1,3 @@
+AppName=Test App
+Version=1.0.0
 OriginalExtension=.exe
