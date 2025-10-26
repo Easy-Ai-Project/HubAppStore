@@ -6,5 +6,13 @@
     "DownloadUrl": "https://www.dropbox.com/scl/fi/xd4ddoywxzu2jhjmxu3z6/interface.HA?rlkey=tqwqq4gc53arz48yo9she6t5f&st=ou92xa7j&dl=1",
     "Author": "Alexis",
     "ManifestUrl": "https://raw.githubusercontent.com/Easy-Ai-Project/HubAppStore/refs/heads/main/TEST/manifest.txt" 
+  },
+  {
+    "Name": "VSCodium",
+    "Description": "Visual studio code Open Source for create app",
+    "IconUrl": "https://raw.githubusercontent.com/Easy-Ai-Project/HubAppStore/refs/heads/main/40338071.ico",
+    "DownloadUrl": "https://www.dropbox.com/scl/fi/clvnkwivverk0suox31ys/VSCODIUM.exe?rlkey=s3hhxewnvrjwa173vvau3l6kp&st=z5ks4s8o&dl=1",
+    "Author": "Baptiste Augrain, Peter Squicciarini",
+    "ManifestUrl": "https://raw.githubusercontent.com/Easy-Ai-Project/HubAppStore/refs/heads/main/VSCodium/manifest.json"
   }
 ]
